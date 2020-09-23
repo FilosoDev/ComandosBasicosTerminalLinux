@@ -9,9 +9,16 @@
 -> `whoami`
 
 
-
-**Comando que exibe em qual diretório o usuário está:**
+**Comando que exibe em qual diretório (pasta) o usuário está:**
 
 -> `pwd`
 
 
+**Comando que lista arquivos e pastas do diretório onde o usuário está:**
+
+-> `ls`
+
+
+**Comando que lista arquivos e pastas do diretório onde o usuário está:**
+
+-> `ls`
