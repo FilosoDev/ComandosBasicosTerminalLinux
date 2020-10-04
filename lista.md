@@ -2,42 +2,43 @@
 
 
 
-## Lista de comandos básicos
+## Básicos
 
 
 **Comando que exibe o nome do usuário:**
 
-:~$`whoami`
+$`whoami`
 
 
 **Comando que exibe em qual diretório (pasta) o usuário está:**
 
-:~$`pwd`
+$`pwd`
 
 
 **Comando que lista arquivos e pastas do diretório:**
 
-:~$`ls`
+$`ls`
 
 
 **Comando que lista arquivos e pastas do diretório, incluindo os ocultos:**
 
-:~$`ls -a`
+$`ls -a`
 
 
 **Comando que lista arquivos e pastas do diretório com informaçãoes de tamanho e data de criação de cada arquivo:**
 
-:~$`ls -lh`
+$`ls -lh`
 
 
 **Comando que lista arquivos e pastas do diretório com informaçãoes de tamanho e data de criação de cada arquivo, incluindo os ocultos:**
 
-:~$`ls -lha`
+$`ls -lha`
 
 
 **Comando que limpa a tela do terminal:**
 
-:~$`clear`
+$`clear`
+
 
 
 
@@ -46,22 +47,23 @@
 
 **Criando um arquivo de texto:**
 
-:~$`echo "Frase que eu quero dentro do meu arquivo de texto chamado mensagem.txt" > mensagem.txt`
+$`echo "Frase que eu quero dentro do meu arquivo de texto chamado mensagem.txt" > mensagem.txt`
 
 
 **Abrindo um arquivo de texto:**
 
-:~$`cat mensagem.txt`
+$`cat mensagem.txt`
 
 
 **Adicionando uma linha de texto ao arquivo mensagem.txt:**
 
-:~$`echo "Frase NÚMERO 2 que eu quero dentro do meu arquivo de texto chamado mensagem.txt" >> mensagem.txt`
+$`echo "Frase NÚMERO 2 que eu quero dentro do meu arquivo de texto chamado mensagem.txt" >> mensagem.txt`
 
 
 **Apagando um arquivo**
 
-:~$`rm nomeDoArquivo.extensao`
+$`rm nomeDoArquivo.extensao`
+
 
 
 
@@ -71,29 +73,29 @@
 
 **Acessando um diretório:**
 
-:~$`cd nomeDoDiretorio`
+$`cd nomeDoDiretorio`
 
 
 **Saindo do diretório e voltando para o anterior (um nível acima):**
 
-:~$`cd ..`
+$`cd ..`
 
 
 **Sai e volta para o diretório raíz:**
 
-:~$`cd`
+$`cd`
 
 
 **Criando um diretório:**
 
-:~$`mkdir nomeDoNovoDiretorio`
+$`mkdir nomeDoNovoDiretorio`
 
 
 **Apagando um diretório:**
 
-:~$`rmdir nomeDoDiretorio`
+$`rmdir nomeDoDiretorio`
 
 
 **Apagando um diretório com arquivos:**
 
-:~$`rmdir -r nomeDoDiretorio`
+$`rmdir -r nomeDoDiretorio`
