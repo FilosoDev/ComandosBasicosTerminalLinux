@@ -42,7 +42,7 @@ $`clear`
 
 
 
-## Criando, Editando e Apagando arquivos
+## Criando, Editando, Movendo e Apagando arquivos
 
 
 **Criando um arquivo de texto:**
@@ -60,11 +60,14 @@ $`cat mensagem.txt`
 $`echo "Frase NÚMERO 2 que eu quero dentro do meu arquivo de texto chamado mensagem.txt" >> mensagem.txt`
 
 
-**Apagando um arquivo**
+**Apagando um arquivo:**
 
 $`rm nomeDoArquivo.extensao`
 
 
+**Movendo um arquivo:**
+
+$`mv nomeDoArquivo.extensao diretorioDestino/`
 
 
 
@@ -81,7 +84,7 @@ $`cd nomeDoDiretorio`
 $`cd ..`
 
 
-**Sai e volta para o diretório raíz:**
+**Sai e vai para o diretório raíz:**
 
 $`cd`
 
