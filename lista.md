@@ -101,4 +101,5 @@ $`rmdir nomeDoDiretorio`
 
 **Apagando um diretório com arquivos:**
 
-$`rmdir -r nomeDoDiretorio`
+$`rmdir -r nomeDoDiretorioo`
+
